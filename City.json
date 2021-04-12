@@ -1,0 +1,698 @@
+[
+  {
+    "Chandigarh": {
+      "Hotels": [
+        {
+          "HotelName": "BEST WESTERN Maryland",
+          "Price": "₹ 4,477",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g1584814-d1987275-Reviews-BEST_WESTERN_Maryland-Zirakpur_Chandigarh.html"
+        },
+        {
+          "HotelName": "JW Marriott Hotel Chandigarh",
+          "Price": "₹ 9,262",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d2065676-Reviews-JW_Marriott_Hotel_Chandigarh-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hometel Chandigarh",
+          "Price": "₹ 2,996",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d1754192-Reviews-Hometel_Chandigarh-Chandigarh.html"
+        },
+        {
+          "HotelName": "      The Lalit Chandigarh",
+          "Price": "₹ 7,860",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d4558938-Reviews-The_Lalit_Chandigarh-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Velvet Clarks Exotica",
+          "Price": "₹ 6,991",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g1584814-d7208037-Reviews-Velvet_Clarks_Exotica-Zirakpur_Chandigarh.html"
+        },
+        {
+          "HotelName": "      Park Plaza Zirakpur",
+          "Price": "₹ 5,600",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g1584814-d6542085-Reviews-Park_Plaza_Zirakpur-Zirakpur_Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hotel GK International",
+          "Price": "₹ 3,158",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d1886821-Reviews-Hotel_GK_International-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Red Fox Hotel, Chandigarh",
+          "Price": "₹ 2,772",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d10727276-Reviews-Red_Fox_Hotel_Chandigarh-Chandigarh.html"
+        },
+        {
+          "HotelName": "      BEST WESTERN Maryland",
+          "Price": "₹ 3,360",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g1584814-d1987275-Reviews-BEST_WESTERN_Maryland-Zirakpur_Chandigarh.html"
+        },
+        {
+          "HotelName": "      Radisson Chandigarh Zirakpur",
+          "Price": "₹ 6,978",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g1584814-d14123907-Reviews-Radisson_Chandigarh_Zirakpur-Zirakpur_Chandigarh.html"
+        },
+        {
+          "HotelName": "      Taj Chandigarh",
+          "Price": "₹ 7,728",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d575986-Reviews-Taj_Chandigarh-Chandigarh.html"
+        },
+        {
+          "HotelName": "      The Toy Hotel",
+          "Price": "₹ 4,275",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d2084740-Reviews-The_Toy_Hotel-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Regenta Central Cassia",
+          "Price": "₹ 3,451",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g1584814-d17409939-Reviews-Regenta_Central_Cassia-Zirakpur_Chandigarh.html"
+        },
+        {
+          "HotelName": "      Lemon Tree Hotel, Chandigarh",
+          "Price": "₹ 8,046",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d2430976-Reviews-Lemon_Tree_Hotel_Chandigarh-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hotel Oyster",
+          "Price": "₹ 2,777",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d2527482-Reviews-Hotel_Oyster-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hotel Palmdale",
+          "Price": "₹ 1,601",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g1584814-d1955679-Reviews-Hotel_Palmdale-Zirakpur_Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hotel Emerald Chandigarh",
+          "Price": "₹ 2,261",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d6463557-Reviews-Hotel_Emerald_Chandigarh-Chandigarh.html"
+        },
+        {
+          "HotelName": "      The Fern Residency",
+          "Price": "₹ 4,480",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d3396032-Reviews-The_Fern_Residency-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hotel Rajshree",
+          "Price": "₹ 2,688",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d3177356-Reviews-Hotel_Rajshree-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Glades Hotel",
+          "Price": "₹ 3,007",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d11717485-Reviews-Glades_Hotel-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hotel City Heart Premium",
+          "Price": "₹ 2,912",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d735609-Reviews-Hotel_City_Heart_Premium-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hotel Pride",
+          "Price": "₹ 1,095",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d6456827-Reviews-Hotel_Pride-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hotel Diamond Inn",
+          "Price": "₹ 1,428",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d3916137-Reviews-Hotel_Diamond_Inn-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hotel Mountview",
+          "Price": "₹ 5,294",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d479054-Reviews-Hotel_Mountview-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hotel Himani's",
+          "Price": "₹ 1,544",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d1400092-Reviews-Hotel_Himani_s-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hotel Sapphire",
+          "Price": "₹ 2,520",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g1584814-d6939447-Reviews-Hotel_Sapphire-Zirakpur_Chandigarh.html"
+        },
+        {
+          "HotelName": "      Best Homestay Centrally Located Chandigarh India B&B",
+          "Price": "₹ 799",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d16787417-Reviews-Best_Homestay_Centrally_Located_Chandigarh_India_B_B-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Citi Inn Grande Hotel",
+          "Price": "₹ 1,752",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g1584814-d19807862-Reviews-Citi_Inn_Grande_Hotel-Zirakpur_Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hyatt Regency Chandigarh",
+          "Price": "",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d9455441-Reviews-Hyatt_Regency_Chandigarh-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Ramada Plaza by Wyndham Chandigarh Zirakpur",
+          "Price": "",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g1584814-d7893811-Reviews-Ramada_Plaza_by_Wyndham_Chandigarh_Zirakpur-Zirakpur_Chandigarh.html"
+        },
+        {
+          "HotelName": "      Hotel Turquoise Chandigarh",
+          "Price": "",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d5031080-Reviews-Hotel_Turquoise_Chandigarh-Chandigarh.html"
+        },
+        {
+          "HotelName": "      Maya Hotel",
+          "Price": "",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297596-d1172736-Reviews-Maya_Hotel-Chandigarh.html"
+        }
+      ],
+      "Top 10 Places To Visit": [
+        { "Place Name": "1. The Rock Garden of Chandigarh" },
+        { "Place Name": "2. Elante mall" },
+        { "Place Name": "3. Sukhna Lake" },
+        { "Place Name": "4. Chandigarh Rose Garden" },
+        { "Place Name": "5. Mahendra Chaudhary Zoological Park" },
+        { "Place Name": "6. Panjab University" },
+        { "Place Name": "7. Timber Trail" },
+        { "Place Name": "8. Sector 17 Market" },
+        { "Place Name": "9. ISKCON Temple Chandigarh" },
+        { "Place Name": "10. Dhillon Plaza" }
+      ]
+    },
+    "Nainital": {
+      "Hotels": [
+        {
+          "HotelName": "Sterling Nainital",
+          "Price": "₹ 6,475",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d7234644-Reviews-Sterling_Nainital-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "The Naini Retreat by Leisure Hotels",
+          "Price": "₹ 12,036",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d660088-Reviews-The_Naini_Retreat_by_Leisure_Hotels-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Cygnett Resort Mountain Breeze",
+          "Price": "₹ 3,618",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d17347538-Reviews-Cygnett_Resort_Mountain_Breeze-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "The Manu Maharani",
+          "Price": "₹ 12,980",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d1500117-Reviews-The_Manu_Maharani-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "The Earl's Court by Leisure Hotels",
+          "Price": "₹ 10,292",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d735352-Reviews-The_Earl_s_Court_by_Leisure_Hotels-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Seasons Hotel and Resort",
+          "Price": "₹ 6,720",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d8132730-Reviews-Seasons_Hotel_and_Resort-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Shervani Hilltop",
+          "Price": "₹ 12,626",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d677487-Reviews-Shervani_Hilltop-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "WelcomHeritage Ashdale",
+          "Price": "₹ 9,676",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d3823332-Reviews-WelcomHeritage_Ashdale-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "The Pavilion",
+          "Price": "₹ 3,332",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d579239-Reviews-The_Pavilion-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Bara Bungalow Gethia, Nainital",
+          "Price": "₹ 6,719",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d1549130-Reviews-Bara_Bungalow_Gethia_Nainital-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Bhikampur Lodge by Howard",
+          "Price": "₹ 5,543",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d3251133-Reviews-Bhikampur_Lodge_by_Howard-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "The Pinewood, Nainital",
+          "Price": "₹ 4,284",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d9977735-Reviews-The_Pinewood_Nainital-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Hotel Himalaya",
+          "Price": "₹ 2,660",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d735808-Reviews-Hotel_Himalaya-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "The Green Lodge",
+          "Price": "₹ 2,799",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d5111642-Reviews-The_Green_Lodge-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Vikram Vintage Inn",
+          "Price": "₹ 9,027",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d678543-Reviews-Vikram_Vintage_Inn-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Swiss Cottage",
+          "Price": "₹ 3,465",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d735584-Reviews-Swiss_Cottage-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Ayar Jungle Resort",
+          "Price": "₹ 7,581",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d2000094-Reviews-Ayar_Jungle_Resort-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Banlekhi Resort",
+          "Price": "₹ 3,066",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d12619769-Reviews-Banlekhi_Resort-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Nature Drops",
+          "Price": "₹ 2,449",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d11925862-Reviews-Nature_Drops-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "The Hive Cottage",
+          "Price": "₹ 6,224",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d11712832-Reviews-The_Hive_Cottage-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "YMCA Sattal Camp",
+          "Price": "₹ 1,176",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d2422733-Reviews-YMCA_Sattal_Camp-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Classic The Mall",
+          "Price": "₹ 6,552",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d735802-Reviews-Classic_The_Mall-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Treebo Trip the Oak Ridge",
+          "Price": "₹ 6,944",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d14136879-Reviews-Treebo_Trip_the_Oak_Ridge-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "H K Legacy",
+          "Price": "₹ 879",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d10427252-Reviews-H_K_Legacy-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Hotel Krishna, The Mall",
+          "Price": "₹ 3,360",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d783708-Reviews-Hotel_Krishna_The_Mall-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "The Maple Residences",
+          "Price": "₹ 8,067",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d13112279-Reviews-The_Maple_Residences-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Hotel Cloud 7",
+          "Price": "₹ 1,501",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d10523224-Reviews-Hotel_Cloud_7-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "The Himalayan View Cottage",
+          "Price": "₹ 3,696",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d20328165-Reviews-The_Himalayan_View_Cottage-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Goroomgo Dolls Inn Nainital",
+          "Price": "₹ 1,000",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d21362875-Reviews-Goroomgo_Dolls_Inn_Nainital-Nainital_Nainital_District_Uttarakhand.html"
+        },
+        {
+          "HotelName": "Best Priced Hotel Near Mall road",
+          "Price": "₹ 1,879",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g660548-d15512703-Reviews-Best_Priced_Hotel_Near_Mall_road-Nainital_Nainital_District_Uttarakhand.html"
+        }
+      ],
+      "Top 10 Places To Visit": [
+        { "Place Name": "1. Nainital Lake" },
+        { "Place Name": "2. Mukteshwar Temple" },
+        { "Place Name": "3. High Altitude Zoo" },
+        { "Place Name": "4. Eco Cave Gardens" },
+        { "Place Name": "5. Goddess Naina Devi" },
+        { "Place Name": "6. Naina Peak" },
+        { "Place Name": "7. Snow View Point" },
+        { "Place Name": "8. Pangot and Kilbury Bird Sanctuary" },
+        { "Place Name": "9. Nainital Ropeway" },
+        { "Place Name": "10. Tiffin Top (Dorothy's Seat)" }
+      ]
+    },
+    "Shimla": {
+      "Hotels": [
+        {
+          "HotelName": "Hotel Hot Spring",
+          "Price": "₹ 2,873",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d1912054-Reviews-Hotel_Hot_Spring-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "The Oberoi Cecil, Shimla",
+          "Price": "₹ 15,340",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d304233-Reviews-The_Oberoi_Cecil_Shimla-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Marigold Sarovar Portico Shimla",
+          "Price": "₹ 6,663",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g15684018-d1404123-Reviews-Marigold_Sarovar_Portico_Shimla-Sidhora_Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Welcomhotel Shimla",
+          "Price": "₹ 10,620",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d16713809-Reviews-Welcomhotel_Shimla-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Radisson Jass Shimla",
+          "Price": "₹ 15,930",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d582837-Reviews-Radisson_Jass_Shimla-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Summit Le Royale Hotel, Shimla",
+          "Price": "₹ 3,284",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d1090239-Reviews-Summit_Le_Royale_Hotel_Shimla-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "The Oberoi Cecil, Shimla",
+          "Price": "₹ 15,340",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d304233-Reviews-The_Oberoi_Cecil_Shimla-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "The Zion",
+          "Price": "₹ 3,203",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d12990076-Reviews-The_Zion-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Hotel Willow Banks",
+          "Price": "₹ 5,609",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d586892-Reviews-Hotel_Willow_Banks-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Snow Valley Resorts",
+          "Price": "₹ 4,479",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d8318132-Reviews-Snow_Valley_Resorts-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Clarkes Hotel",
+          "Price": "₹ 7,840",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d505513-Reviews-Clarkes_Hotel-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Shimla Havens Resort",
+          "Price": "₹ 3,930",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d3608965-Reviews-Shimla_Havens_Resort-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Honeymoon Inn Shimla",
+          "Price": "₹ 6,720",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d658289-Reviews-Honeymoon_Inn_Shimla-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Treebo Trend Maharaja",
+          "Price": "₹ 1,908",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d1605132-Reviews-Treebo_Trend_Maharaja-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Hotel Silverine",
+          "Price": "₹ 1,960",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d736501-Reviews-Hotel_Silverine-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Hotel Marina",
+          "Price": "₹ 12,744",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d3418119-Reviews-Hotel_Marina-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Dewdrop Shimla",
+          "Price": "₹ 2,191",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d13158005-Reviews-Dewdrop_Shimla-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "The Legacy Shimla",
+          "Price": "₹ 3,153",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d19094902-Reviews-The_Legacy_Shimla-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "The Oaktree House",
+          "Price": "₹ 5,779",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d12507518-Reviews-The_Oaktree_House-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Sanobar The Grand White Shimla - A Luxury Hotel",
+          "Price": "₹ 5,712",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d12977873-Reviews-Sanobar_The_Grand_White_Shimla_A_Luxury_Hotel-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Hotel Combermere",
+          "Price": "₹ 6,107",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d588617-Reviews-Hotel_Combermere-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Shimla British Resort",
+          "Price": "₹ 3,654",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d1482794-Reviews-Shimla_British_Resort-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Hill View Cottage",
+          "Price": "₹ 4,844",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d17347210-Reviews-Hill_View_Cottage-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Hotel Sidharath",
+          "Price": "₹ 1,876",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d4723332-Reviews-Hotel_Sidharath-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Hotel Prestige Shimla",
+          "Price": "₹ 1,552",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d2328216-Reviews-Hotel_Prestige_Shimla-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Hotel Windsor",
+          "Price": "₹ 1,542",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d20214519-Reviews-Hotel_Windsor-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Sanobar The Euphoria Grand",
+          "Price": "₹ 4,130",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d17383999-Reviews-Sanobar_The_Euphoria_Grand-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Hotel Himalayan Escape",
+          "Price": "₹ 1,907",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d7060317-Reviews-Hotel_Himalayan_Escape-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Fairmount Shimla Forest Greens",
+          "Price": "₹ 2,341",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d735245-Reviews-Fairmount_Shimla_Forest_Greens-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Snow King Retreat",
+          "Price": "₹ 5,376",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d1144883-Reviews-Snow_King_Retreat-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Dusk N Dawn",
+          "Price": "₹ 3,584",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g304552-d13355803-Reviews-Dusk_N_Dawn-Shimla_Shimla_District_Himachal_Pradesh.html"
+        },
+        {
+          "HotelName": "Hotel Flowerdale Villa",
+          "Price": "₹ 3,080",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g15695306-d12622134-Reviews-Hotel_Flowerdale_Villa-Chotta_Shimla_Shimla_Shimla_District_Himachal_Pradesh.html"
+        }
+      ],
+      "Top 10 Places To Visit": [
+        { "Place Name": "1. Jakhu Temple" },
+        { "Place Name": "2. The Mall" },
+        { "Place Name": "3. Kalka - Shimla Railway" },
+        { "Place Name": "4. Indian Institute of Advanced Study" },
+        { "Place Name": "5. Viceregal Lodge" },
+        { "Place Name": "6. The Ridge" },
+        { "Place Name": "7. Annandale Ground" },
+        { "Place Name": "8. Green Valley" },
+        { "Place Name": "9. Kali Bari Temple" },
+        { "Place Name": "10. Jakhoo Hill" }
+      ]
+    },
+    "Kashmir": {
+      "Hotels": [
+        {
+          "HotelName": "The Khyber Himalayan Resort & Spa",
+          "Price": "₹ 27,907",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g317095-d2086574-Reviews-The_Khyber_Himalayan_Resort_Spa-Gulmarg_Baramulla_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "The Grand Kaisar",
+          "Price": "₹ 8,064",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d20261024-Reviews-The_Grand_Kaisar-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "The Vintage Gulmarg",
+          "Price": "₹ 14,656",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g317095-d3218312-Reviews-The_Vintage_Gulmarg-Gulmarg_Baramulla_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Regenta Central Point Srinagar",
+          "Price": "₹ 8,400",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d13943387-Reviews-Regenta_Central_Point_Srinagar-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Welcomhotel Pine N Peak Pahalgam - Member ITC's Hotel Group",
+          "Price": "₹ 17,110",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g665884-d658324-Reviews-Welcomhotel_Pine_N_Peak_Pahalgam_Member_ITC_s_Hotel_Group-Pahalgam_Anantnag_District_Ka.html"
+        },
+        {
+          "HotelName": "Akbar Group Of Heritage Houseboats",
+          "Price": "₹ 2,464",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d7733498-Reviews-Akbar_Group_Of_Heritage_Houseboats-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmi.html"
+        },
+        {
+          "HotelName": "Radisson Srinagar",
+          "Price": "₹ 11,087",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d13187697-Reviews-Radisson_Srinagar-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "The Khyber Himalayan Resort & Spa",
+          "Price": "₹ 27,907",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g317095-d2086574-Reviews-The_Khyber_Himalayan_Resort_Spa-Gulmarg_Baramulla_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Hotel Heevan Pahalgam",
+          "Price": "₹ 11,769",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g665884-d735951-Reviews-Hotel_Heevan_Pahalgam-Pahalgam_Anantnag_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Radisson Srinagar",
+          "Price": "₹ 9,979",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d13187697-Reviews-Radisson_Srinagar-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "The Chinar Resort & Spa",
+          "Price": "₹ 10,650",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g665884-d13551776-Reviews-The_Chinar_Resort_Spa-Pahalgam_Anantnag_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Chicago Group of Houseboats",
+          "Price": "₹ 3,548",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d639890-Reviews-Chicago_Group_of_Houseboats-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Heevan Retreat",
+          "Price": "₹ 11,769",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g317095-d658432-Reviews-Heevan_Retreat-Gulmarg_Baramulla_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Mascot Houseboats",
+          "Price": "₹ 11,549",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d3784769-Reviews-Mascot_Houseboats-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Hospitality Home",
+          "Price": "₹ 1,876",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d3488110-Reviews-Hospitality_Home-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Fortune Resort Heevan, Srinagar - Member ITC's Hotel Group",
+          "Price": "₹ 12,980",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d658583-Reviews-Fortune_Resort_Heevan_Srinagar_Member_ITC_s_Hotel_Group-Srinagar_Srinagar_District_Kash.html"
+        },
+        {
+          "HotelName": "Walisons Hotel",
+          "Price": "₹ 2,593",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d3194740-Reviews-Walisons_Hotel-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "WelcomHeritage Gurkha Houseboats",
+          "Price": "₹ 10,114",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d477854-Reviews-WelcomHeritage_Gurkha_Houseboats-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "The Orchard Retreat & Spa",
+          "Price": "₹ 12,626",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d13483669-Reviews-The_Orchard_Retreat_Spa-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Grand Mumtaz Resorts Gulmarg",
+          "Price": "₹ 7,559",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g317095-d658295-Reviews-Grand_Mumtaz_Resorts_Gulmarg-Gulmarg_Baramulla_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Hotel The Montreal",
+          "Price": "₹ 4,480",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d15661939-Reviews-Hotel_The_Montreal-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Welcome Hotel Gulmarg",
+          "Price": "₹ 3,478",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g317095-d1965018-Reviews-Welcome_Hotel_Gulmarg-Gulmarg_Baramulla_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Goona Palace Houseboat",
+          "Price": "₹ 2,150",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d6788614-Reviews-Goona_Palace_Houseboat-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Nedou's Hotel",
+          "Price": "₹ 17,134",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g317095-d1172691-Reviews-Nedou_s_Hotel-Gulmarg_Baramulla_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "The Pine Palace Resort",
+          "Price": "₹ 7,056",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g317095-d1013347-Reviews-The_Pine_Palace_Resort-Gulmarg_Baramulla_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Hotel Rah Villas",
+          "Price": "₹ 10,620",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g1156060-d2259578-Reviews-Hotel_Rah_Villas-Sonmarg_Ganderbal_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Volga Hotel",
+          "Price": "₹ 3,724",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g665884-d3176355-Reviews-Volga_Hotel-Pahalgam_Anantnag_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Hotel Zahgeer Continental",
+          "Price": "₹ 10,620",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g317095-d1069662-Reviews-Hotel_Zahgeer_Continental-Gulmarg_Baramulla_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Pine View Resort",
+          "Price": "₹ 4,410",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g317095-d9452062-Reviews-Pine_View_Resort-Gulmarg_Baramulla_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Hotel Village Walk",
+          "Price": "₹ 7,839",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g2282345-d15116744-Reviews-Hotel_Village_Walk-Sonamarg_Ganderbal_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Solomon Heights",
+          "Price": "₹ 3,527",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g297623-d14767941-Reviews-Solomon_Heights-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html"
+        },
+        {
+          "HotelName": "Hotel Alpine k2",
+          "Price": "₹ 990",
+          "HotelUrl": "https://www.tripadvisor.in//Hotel_Review-g665884-d13486713-Reviews-Hotel_Alpine_k2-Pahalgam_Anantnag_District_Kashmir_Jammu_and_Kashmir.html"
+        }
+      ],
+      "Top 10 Places To Visit": [
+        { "Place Name": "1. Dal Lake" },
+        { "Place Name": "2. Indira Gandhi Tulip Garden" },
+        { "Place Name": "3. Sonamarg" },
+        { "Place Name": "4. Shankaracharya Hill" },
+        { "Place Name": "5. Gulmarg Gondola" },
+        { "Place Name": "6. Nubhra Valley" },
+        { "Place Name": "7. Apharwat Peak" },
+        { "Place Name": "8. Amarnath Cave" },
+        { "Place Name": "9. Aru Valley" },
+        { "Place Name": "10. Nishat Garden" }
+      ]
+    }
+  }
+]
